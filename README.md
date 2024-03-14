@@ -6,7 +6,7 @@
     <title>Mensagem de Puto</title>
 </head>
 <body>
-    <h1>Letícia louca/<h1>
+    <h1>Letícia louca<h1>
     <p>Parabéns por ser a mais louca delas🎉🎂</p>
 </body>
 </html>
